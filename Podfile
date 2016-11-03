@@ -6,9 +6,18 @@ target 'firebasedatabase' do
   use_frameworks!
 
   # Pods for firebasedatabase
+  
       pod 'Firebase'
       pod 'Firebase/Auth' 
       pod 'Firebase/Database' 
       pod 'Firebase/Core'
+      pod 'Firebase/AdMob'
+      pod 'Firebase/Messaging'
+      pod 'Firebase/Database'
+      pod 'Firebase/Invites'
+      pod 'Firebase/DynamicLinks'
+      pod 'Firebase/Crash'
+      pod 'Firebase/RemoteConfig'
+      pod 'Firebase/Storage'
 
 end

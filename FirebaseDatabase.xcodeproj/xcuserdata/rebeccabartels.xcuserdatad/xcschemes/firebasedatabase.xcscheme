@@ -17,7 +17,7 @@
                BlueprintIdentifier = "43EFD79E1DCAC7E7004A54EC"
                BuildableName = "firebasedatabase.app"
                BlueprintName = "firebasedatabase"
-               ReferencedContainer = "container:firebasedatabase.xcodeproj">
+               ReferencedContainer = "container:FirebaseDatabase.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -35,7 +35,7 @@
             BlueprintIdentifier = "43EFD79E1DCAC7E7004A54EC"
             BuildableName = "firebasedatabase.app"
             BlueprintName = "firebasedatabase"
-            ReferencedContainer = "container:firebasedatabase.xcodeproj">
+            ReferencedContainer = "container:FirebaseDatabase.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
       <AdditionalOptions>
@@ -58,7 +58,7 @@
             BlueprintIdentifier = "43EFD79E1DCAC7E7004A54EC"
             BuildableName = "firebasedatabase.app"
             BlueprintName = "firebasedatabase"
-            ReferencedContainer = "container:firebasedatabase.xcodeproj">
+            ReferencedContainer = "container:FirebaseDatabase.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -77,7 +77,7 @@
             BlueprintIdentifier = "43EFD79E1DCAC7E7004A54EC"
             BuildableName = "firebasedatabase.app"
             BlueprintName = "firebasedatabase"
-            ReferencedContainer = "container:firebasedatabase.xcodeproj">
+            ReferencedContainer = "container:FirebaseDatabase.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>
