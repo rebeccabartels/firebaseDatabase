@@ -12,6 +12,7 @@ import Firebase
 
 
 
+
 class TableViewController: UITableViewController {
 
     override func viewDidLoad() {
@@ -28,10 +29,10 @@ class TableViewController: UITableViewController {
         
         let title = "Title"
         let message = "Message"
-        var post = [String : AnyObject] = ["Title" : title, "Message" : message]
+        var post = ["Title" : title, "Message" : message]
         
         
-        
+        da
        
         
     }
