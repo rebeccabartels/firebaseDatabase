@@ -7,21 +7,21 @@
 	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
 	<string>ca-app-pub-3940256099942544/4411468910</string>
 	<key>CLIENT_ID</key>
-	<string>361800449166-n0sbkg0dpcjoprfgmicd1f4mgn0ijtsl.apps.googleusercontent.com</string>
+	<string>150696525793-bbu72778fphfm35c6s5d669ion5pjf7q.apps.googleusercontent.com</string>
 	<key>REVERSED_CLIENT_ID</key>
-	<string>com.googleusercontent.apps.361800449166-n0sbkg0dpcjoprfgmicd1f4mgn0ijtsl</string>
+	<string>com.googleusercontent.apps.150696525793-bbu72778fphfm35c6s5d669ion5pjf7q</string>
 	<key>API_KEY</key>
-	<string>AIzaSyC_rN1PlgwhgJP8IPxG8Y8OOWyTCyzrpiw</string>
+	<string>AIzaSyDzwIxLJ5V0WSVz9PIZxGXFc_CJS52hbcw</string>
 	<key>GCM_SENDER_ID</key>
-	<string>361800449166</string>
+	<string>150696525793</string>
 	<key>PLIST_VERSION</key>
 	<string>1</string>
 	<key>BUNDLE_ID</key>
 	<string>rebeccaKFBartels.firebasedatabase</string>
 	<key>PROJECT_ID</key>
-	<string>lord-of-the-rings-trivia</string>
+	<string>fir-database-3c321</string>
 	<key>STORAGE_BUCKET</key>
-	<string>lord-of-the-rings-trivia.appspot.com</string>
+	<string>fir-database-3c321.appspot.com</string>
 	<key>IS_ADS_ENABLED</key>
 	<true/>
 	<key>IS_ANALYTICS_ENABLED</key>
@@ -33,8 +33,8 @@
 	<key>IS_SIGNIN_ENABLED</key>
 	<true/>
 	<key>GOOGLE_APP_ID</key>
-	<string>1:361800449166:ios:9cfcd6a211619d42</string>
+	<string>1:150696525793:ios:9cfcd6a211619d42</string>
 	<key>DATABASE_URL</key>
-	<string>https://lord-of-the-rings-trivia.firebaseio.com</string>
+	<string>https://fir-database-3c321.firebaseio.com</string>
 </dict>
 </plist>
