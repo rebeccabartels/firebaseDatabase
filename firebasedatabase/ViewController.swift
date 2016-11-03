@@ -7,8 +7,11 @@
 //
 
 import UIKit
+import Firebase
 
-class ViewController: UIViewController {
+
+
+class TableViewController: UITableViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
@@ -19,6 +22,19 @@ class ViewController: UIViewController {
         super.didReceiveMemoryWarning()
         // Dispose of any resources that can be recreated.
     }
+    
+    func post() {
+        
+        let title = "Title"
+        let message = "Message"
+        let post = [String: AnyObject] = ["Title" : title,
+                                          "Message" : message]
+        
+       
+        
+    }
+    
+    
 
 
 }
