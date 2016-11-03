@@ -7,6 +7,8 @@ target 'firebasedatabase' do
 
   # Pods for firebasedatabase
       pod 'Firebase'
-      pod 'FirebaseDatabase'
+      pod 'Firebase/Auth' 
+      pod 'Firebase/Database' 
+      pod 'Firebase/Core'
 
 end
