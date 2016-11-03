@@ -6,7 +6,6 @@ target 'firebasedatabase' do
   use_frameworks!
 
   # Pods for firebasedatabase
-      pod 'FirebaseDatabase'
       pod 'Firebase'
 
 end
